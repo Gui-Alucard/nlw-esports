@@ -5,11 +5,30 @@
 </p>
 <br>
 
-The **eSports** project on the [Next Level Week](https://lp.rocketseat.com.br/nlw) by Rocketseat.
+<h4 align="center"> 
+  🚀 The <strong>eSports</strong> project on the <a href="https://lp.rocketseat.com.br/nlw">Next Level Week</a> by Rocketseat. 🚀
+</h4>
+<br>
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gui-Alucard/nlw-esports">	
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gui-Alucard/nlw-esports">
+  <a href="https://github.com/Gui-Alucard/nlw-esports/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gui-Alucard/nlw-esports">
+  </a>
+  <a href="https://github.com/Gui-Alucard/nlw-esports/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Gui-Alucard/nlw-esports">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+<p>
+<br>
 
+## Guide
+____
+<br>
 
   - [Description](#description)
   - [Stack and tools](#stack-and-tools)
+  - [License](#license)
 
 <br>
 
@@ -24,7 +43,10 @@ ___
 <br>
 
 <p align="center">
-<img src="./assets/img/app-preview.png" alt="eSports application preview. A background image with the logo centered and just below, an impactful phrase: 'Your duo is here.', followed by some cards horizontally aligned with the covers of some famous games. Above, on the left side, there are two cell phones demonstrating the described web version, in the mobile version."/></p>
+  <img src="./assets/img/app-preview.png" alt="eSports application preview. A background image with the logo centered and just below, an impactful phrase: 'Your duo is here.', followed by some cards horizontally aligned with the covers of some famous games. Above, on the left side, there are two cell phones demonstrating the described web version, in the mobile version."/>
+</p>
+
+<p>&nbsp;</p>
 
 ## Stack and tools
 ___
@@ -37,3 +59,12 @@ ___
 * [Tailwind](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
 * [Figma](https://www.figma.com/)
+
+<p>&nbsp;</p>
+
+
+## License
+___
+<br>
+
+This project is under the MIT license. See the [LICENSE](LICENSE) for details.
