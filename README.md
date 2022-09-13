@@ -11,7 +11,7 @@
 <br>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gui-Alucard/nlw-esports">	
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gui-Alucard/nlw-esports">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/Gui-Alucard/nlw-esports">
   <a href="https://github.com/Gui-Alucard/nlw-esports/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gui-Alucard/nlw-esports">
   </a>
@@ -23,7 +23,6 @@
 <br>
 
 ## Guide
-____
 <br>
 
   - [Description](#description)
@@ -33,7 +32,6 @@ ____
 <br>
 
 ## Description
-___
 <br>
 
  - The project is called *Find your Duo*.
@@ -49,7 +47,6 @@ ___
 <p>&nbsp;</p>
 
 ## Stack and tools
-___
 <br>
 
 * [Node.js](https://nodejs.org/en/)
@@ -64,7 +61,6 @@ ___
 
 
 ## License
-___
 <br>
 
 This project is under the MIT license. See the [LICENSE](LICENSE) for details.
