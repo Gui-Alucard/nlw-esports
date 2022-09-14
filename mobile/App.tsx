@@ -1,44 +1,32 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StatusBar } from 'react-native';
+import {
+  useFonts,
+  Inter_400Regular,
+  Inter_600SemiBold,
+  Inter_700Bold,
+  Inter_900Black
+} from '@expo-google-fonts/inter';
 
-interface ButtonProps {
-  title: string;
-}
-
-function Button(props: ButtonProps) {
-  return (
-    <TouchableOpacity>
-      <Text style={styles.ButtonStyle}>
-        {props.title}
-      </Text>
-    </TouchableOpacity>
-  )
-}
+import { Home } from 'screens/Home';
+import { Loading } from 'components/Loading';
+import { Background } from 'components/Background';
 
 export default function App() {
+  const [fontsLoaded] = useFonts({
+    Inter_400Regular,
+    Inter_600SemiBold,
+    Inter_700Bold,
+    Inter_900Black
+  });
+
   return (
-    <View style={styles.container}>
-      <Text>Hello Expo!</Text>
-      <Button title="Like" />
-      <StatusBar style="auto" />
-    </View>
+    <Background>
+      <StatusBar
+        barStyle="light-content"
+        backgroundColor="transparent"
+        translucent
+      />
+      {fontsLoaded ? <Home /> : <Loading />}
+    </Background>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  ButtonStyle: {
-    backgroundColor: '#0077b5',
-    color: '#fff',
-    padding: 8,
-    marginTop: 8,
-    borderRadius: 6,
-    alignItems: 'center',
-    justifyContent: 'center',
-  }
-});
