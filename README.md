@@ -56,6 +56,7 @@
 * [Tailwind](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
 * [Figma](https://www.figma.com/)
+<!-- * [Prisma](https://www.figma.com/) -->
 
 <p>&nbsp;</p>
 
