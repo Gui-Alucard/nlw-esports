@@ -21,7 +21,9 @@
           "components": "./src/components",
           "screens": "./src/screens",
           "theme": "./src/theme",
-          "utils": "./src/utils"
+          "utils": "./src/utils",
+          "routes": "./src/routes",
+          "types": "./src/@types"
         }
       }
     ]

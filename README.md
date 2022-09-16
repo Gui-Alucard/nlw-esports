@@ -57,6 +57,9 @@
 * [Vite](https://vitejs.dev/)
 * [Figma](https://www.figma.com/)
 <!-- * [Prisma](https://www.figma.com/) -->
+<!-- * [Phosphor](https://www.figma.com/) -->
+<!-- * [RadixUI](https://www.figma.com/) -->
+<!-- * [React Navigation](https://www.figma.com/) -->
 
 <p>&nbsp;</p>
 

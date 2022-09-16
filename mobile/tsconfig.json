@@ -9,6 +9,8 @@
       "screens/*": ["src/screens/*"],
       "theme/*": ["src/theme/*"],
       "utils/*": ["src/utils/*"],
+      "types/*": ["src/@types/*"],
+      "routes/*": ["src/routes/*"],
     }
   },
   "exclude": ["node_modules", "dist"]
