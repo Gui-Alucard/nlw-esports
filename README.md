@@ -49,17 +49,24 @@
 ## Stack and tools
 <br>
 
-* [Node.js](https://nodejs.org/en/)
+#### Front-end
+
 * [React](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
+* [React Navigation](https://reactnavigation.org/)
 * [Expo](https://expo.dev/)
-* [Tailwind](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
+* [RadixUI](https://www.radix-ui.com/)
+* [Tailwind](https://tailwindcss.com/)
+* [Phosphor](https://phosphoricons.com/)
 * [Figma](https://www.figma.com/)
-<!-- * [Prisma](https://www.figma.com/) -->
-<!-- * [Phosphor](https://www.figma.com/) -->
-<!-- * [RadixUI](https://www.figma.com/) -->
-<!-- * [React Navigation](https://www.figma.com/) -->
+
+#### Back-end
+
+* [Node.js](https://nodejs.org/en/)
+* [Prisma](https://www.prisma.io/)
+* [Express](https://expressjs.com/pt-br/)
+* [Cors](https://www.npmjs.com/package/cors)
 
 <p>&nbsp;</p>
 
